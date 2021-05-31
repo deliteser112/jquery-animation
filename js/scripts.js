@@ -22,11 +22,7 @@ $(window).scroll(function() {
 		$(".inner-step2").removeClass("fadeIn");
         $(".step1").removeClass("step3");
     }
-
 });
-
-
-
 
 $(window).scroll(function() {    
     var scroll = $(window).scrollTop();
