@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="84" height="82" viewBox="0 0 84 82">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-width:4px}
+        </style>
+    </defs>
+    <g id="Group_32" transform="translate(-918 -959)">
+        <g id="Group_31" transform="translate(0 -17)">
+            <path id="Path_44" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4px" d="M197.958 245.5L222 269.542l24.042-24.042" transform="translate(737.542 767.5)"/>
+            <path id="Line_2" d="M0 35.599L0 0" class="cls-2" transform="translate(952.5 994.901)"/>
+            <path id="Line_3" d="M0 35.599L0 0" class="cls-2" transform="translate(966.5 994.901)"/>
+        </g>
+    </g>
+</svg>
